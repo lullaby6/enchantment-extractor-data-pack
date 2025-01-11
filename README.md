@@ -6,6 +6,12 @@ Version: 1.21.X
 
 ## Commands
 
+Give:
+
+```mcfunction
+/loot give @s loot enchantment_extrator:enchantment_extractor
+```
+
 Disable:
 
 ```mcfunction
