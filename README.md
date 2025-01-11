@@ -9,13 +9,13 @@ Version: 1.21.X
 Disable the Data-Pack:
 
 ```mcfunction
-/datapack disable "file/enchantment-extrator-data-pack"
+/datapack disable "file/enchantment-extrator"
 ```
 
 And enable it:
 
 ```mcfunction
-/datapack enable "file/enchantment-extrator-data-pack"
+/datapack enable "file/enchantment-extrator"
 ```
 
 ## License
