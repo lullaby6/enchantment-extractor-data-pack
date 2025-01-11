@@ -1,4 +1,4 @@
-# Enchantment Extractor Data-Pack
+# Enchantment Extractor
 
 Extract enchantments from armor, tools and weapons!
 
@@ -6,13 +6,13 @@ Version: 1.21.X
 
 ## Commands
 
-Disable the Data-Pack:
+Disable:
 
 ```mcfunction
 /datapack disable "file/enchantment-extrator"
 ```
 
-And enable it:
+Enable:
 
 ```mcfunction
 /datapack enable "file/enchantment-extrator"
