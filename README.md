@@ -15,13 +15,13 @@ Give:
 Disable:
 
 ```mcfunction
-/datapack disable "file/enchantment-extrator"
+/datapack disable "file/enchantment-extrator.zip"
 ```
 
 Enable:
 
 ```mcfunction
-/datapack enable "file/enchantment-extrator"
+/datapack enable "file/enchantment-extrator.zip"
 ```
 
 ## License
