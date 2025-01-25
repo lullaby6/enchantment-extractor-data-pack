@@ -1,6 +1,7 @@
 # Enchantment Extractor
 
 Extract enchantments from armor, tools and weapons!
+Use Enchantment Books results with anvils fixed!!
 
 Version: 1.21.X
 
