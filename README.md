@@ -3,7 +3,11 @@
 Extract enchantments from armor, tools and weapons!
 Use Enchantment Books results with anvils fixed!!
 
-Version: 1.21.X
+Version: `1.21.4`
+
+## Recipe
+
+![recipe](https://raw.githubusercontent.com/lullaby6/enchantment-extractor-data-pack/refs/heads/main/images/recipe.png)
 
 ## Commands
 
