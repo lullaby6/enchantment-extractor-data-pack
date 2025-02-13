@@ -14,19 +14,19 @@ Version: `1.21.4`
 Give:
 
 ```mcfunction
-/loot give @s loot enchantment_extrator:enchantment_extractor
+/loot give @s loot enchantment_extractor:enchantment_extractor
 ```
 
 Disable:
 
 ```mcfunction
-/datapack disable "file/enchantment-extrator.zip"
+/datapack disable "file/enchantment-extractor.zip"
 ```
 
 Enable:
 
 ```mcfunction
-/datapack enable "file/enchantment-extrator.zip"
+/datapack enable "file/enchantment-extractor.zip"
 ```
 
 ## License
