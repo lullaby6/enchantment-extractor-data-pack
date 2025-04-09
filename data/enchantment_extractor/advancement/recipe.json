@@ -12,6 +12,8 @@
     }
   },
   "rewards": {
-    "recipes": ["enchantment_extractor:enchantment_extractor"]
+    "recipes": [
+      "enchantment_extractor:enchantment_extractor"
+    ]
   }
 }
